@@ -11,3 +11,10 @@ main:
 
 # breadcrumbs
 breadcrumbs: true
+
+# sidebar
+docs:
+  - title: 교통
+    children:
+      - title: "속도/교통량/대중교통"
+        url: /posts/topis/
