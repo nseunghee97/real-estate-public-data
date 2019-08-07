@@ -296,6 +296,7 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+      breadcrumbs: true
   # _pages
   - scope:
       path: "_pages"
@@ -303,5 +304,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+      breadcrumbs: true
       
       
