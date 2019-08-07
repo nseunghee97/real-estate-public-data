@@ -7,8 +7,10 @@
 
 /* Colors */
 $primary-color: #0092ca !default;
+$gray: #7a8288 !default;
+$dark-gray: mix(#000, $gray, 40%) !default;
+$text-color: $dark-gray !default;
 $footer-background-color: #D4EBFF !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
-
