@@ -11,8 +11,12 @@ main:
 
 # sidebar
 docs:
-  - title: "부동산 가격 형성 요인"
-    url : /real-estate/real-estate-factor/
+  - title: "부동산"
+    children:
+      - title: "부동산 가격 형성 요인"
+        url : /real-estate/real-estate-factor/
+      - title: "주택 단위면적별 평균 가격(월간/주간)"
+        url : /real-estate/house-price/
   - title: "교육"
     children:
       - title: "대학진학률"
