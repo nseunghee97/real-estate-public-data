@@ -9,9 +9,6 @@ main:
       url: /tags/
       description: "태그별 포스트 보기"
 
-# breadcrumbs
-breadcrumbs: true
-
 # sidebar
 docs:
   - title: 교통
