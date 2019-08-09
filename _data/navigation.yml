@@ -15,6 +15,9 @@ docs:
     children:
       - title: "부동산 가격 형성 요인"
         url : /real-estate/real-estate-factor/
+    children:
+      - title: "데이터 모아보기"
+        url : /data-link/ 
   - title: "부동산"
     children:
       - title: "주택 단위면적별 평균 가격(월간) 및 시계열데이터(월간/주간)"
