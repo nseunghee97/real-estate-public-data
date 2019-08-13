@@ -23,8 +23,8 @@ docs:
         url : /real-estate/house-price/
   - title: "교육"
     children:
-      - title: "대학진학률"
-        url: 
+      - title: "교습소/학원"
+        url: /edu/academy/
   - title: "교통"
     children:
       - title: "속도/교통량/대중교통"
