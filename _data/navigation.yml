@@ -22,7 +22,7 @@ docs:
       - title: "주택 단위면적별 평균 가격(월간) 및 시계열데이터(월간/주간)"
         url : /real-estate/house-price/
         description : "KB부동산"
-      - title: "부동산통계정보-주택/상업용/지가변동률"
+      - title: "부동산통계-주택/상업용/지가변동률"
         url : /real-estate/appraisal/
         description : "한국감정원"
   - title: "교육"
