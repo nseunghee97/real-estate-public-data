@@ -280,6 +280,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  progress:
+    output: true
+    permalink: /progress/
 
 # Defaults
 defaults:
@@ -305,5 +310,13 @@ defaults:
       layout: single
       author_profile: true
       breadcrumbs: true
+  # _progress
+  - scope:
+      path: "_progress"
+      type: progress
+    values:
+      layout: single
+      author_profile: false
+      share: true
       
       
