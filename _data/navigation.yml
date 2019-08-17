@@ -25,11 +25,17 @@ docs:
       - title: "부동산통계-주택/상업용/지가변동률"
         url : /real-estate/appraisal/
         description : "한국감정원"
+      - title: "표준지공시지가/개별공시지가"
+        url : /real-estate/spatial-portal/ 
+        description : "국가공간정보포털"
   - title: "교육"
     children:
       - title: "서울시 등록 교습소/학원 개수"
         url: /edu/academy/
         description : "공공데이터포털"
+      - title: "중고등학교 진학률/취업률"
+        url : /edu/schoolinfo/
+        description : "학교알리미"
   - title: "교통"
     children:
       - title: "속도/교통량/대중교통"
