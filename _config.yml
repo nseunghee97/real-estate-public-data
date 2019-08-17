@@ -310,12 +310,5 @@ defaults:
       layout: single
       author_profile: true
       breadcrumbs: true
-  # _progress
-  - scope:
-      path: "_progress"
-      type: progress
-    values:
-      layout: single
-      author_profile: false
-      share: true      
+    
 
