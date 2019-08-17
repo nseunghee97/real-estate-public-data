@@ -6,4 +6,4 @@ permalink: /progress/
 author_profile: true
 ---
 
-주간 업무 보고입니다.
+주간 업무 보고
