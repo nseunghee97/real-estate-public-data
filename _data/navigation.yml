@@ -34,7 +34,7 @@ docs:
         description : "국가공간정보포털"
   - title: "교육"
     children:
-      - title: "서울시 등록 교습소/학원 개수"
+      - title: "전국 교습소/학원 등록 현황"
         url: /edu/academy/
         description : "공공데이터포털"
       - title: "중고등학교 진학률/취업률"
