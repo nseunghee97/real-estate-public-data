@@ -39,3 +39,8 @@
     <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
+
+<!-- Facebook comment 설정 -->
+{% if site.facebook_app_id %}
+<meta property="fb:app_id" content="{{ facebook_app_id }}" />
+{% endif %}
