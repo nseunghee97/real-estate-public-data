@@ -19,10 +19,10 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
     
-    <!--facebook comment-->
-    <div id="fb-root"></div>
-    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v4.0&appId=376246693269601&autoLogAppEvents=1"></script>
-
+    <div class="initial-content">
+      {{ content }}
+    </div>
+   
     {% if site.search == true %}
       <div class="search-content">
         {% include_cached search/search_form.html %}
