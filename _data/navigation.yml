@@ -32,6 +32,12 @@ docs:
       - title: "표준지공시지가/개별공시지가"
         url : /real-estate/spatial-portal/ 
         description : "국가공간정보포털"
+      - title: "자가점유 현황"
+        url : /real-estate/kosis/
+        description : "KOSIS 국가통계포털"
+      - title: "주택종류/연면적/건축년도"
+        url : /real-estate/kosis2/
+        description : "KOSIS 국가통계포털"
   - title: "교육"
     children:
       - title: "전국 교습소/학원 등록 현황"
