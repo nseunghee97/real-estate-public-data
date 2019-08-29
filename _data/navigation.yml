@@ -64,6 +64,9 @@ docs:
       - title: "편익시설/혐오시설/환경오염유발시설/공장"
         url: /infra/lx/
         description: "한국국토정보공사"
+      - title: "폐기물처리시설"
+        url: /infra/env/
+        description: "환경부"
   - title: "정부/규제"
     children:
       - title: "행정동/법정동코드"
