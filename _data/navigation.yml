@@ -5,6 +5,9 @@ main:
     - title: "Progress"
       url: /progress/
       description: "업무 진행 상황"
+    - title: "Report"
+      url: /report/
+      description: "업무 보고서"
     - title: "Categories"
       url: /categories/
       description: "카테고리별 포스트 보기"
