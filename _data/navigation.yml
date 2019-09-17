@@ -21,7 +21,7 @@ docs:
   - title: ""
     children:
       - title: "부동산 가격 형성 요인"
-        url : /real-estate/real-estate-factor/
+        url : /real-estate/factor/
       - title: "데이터 모아보기"
         url : /data-link/ 
   - title: "부동산"
