@@ -312,15 +312,15 @@ defaults:
       author_profile: true
       breadcrumbs: true
       comments: false
-  # _progress
-  - scope:
-      path: "_progress"
-      type: progress
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-      breadcrumbs: true
+#   # _progress
+#   - scope:
+#       path: "_progress"
+#       type: progress
+#     values:
+#       layout: single
+#       author_profile: true
+#       share: true
+#       comments: true
+#       breadcrumbs: true
     
 
